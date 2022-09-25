@@ -10,7 +10,7 @@ export default (req, res) => {
         });
     }
 
-    let mailTo = "me@janjytapyt.me";
+    let mailTo = "me@wire.me";
     let mailSubject = "Contact Form Submission";
 
     let mailBody = `
